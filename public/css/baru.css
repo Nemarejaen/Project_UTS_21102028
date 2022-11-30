@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/gradient-metaverse-illustration_23-2149282137.jpg?w=1060&t=st=1669543861~exp=1669544461~hmac=71c1c25a2537c0ab389564640df3fa100e67d5776b6c400932e60bc23ae32ee9);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.container{
+    text-align: left;
+    color: #fafafa;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 4px solid #2979ff;
+}
+.mn ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+.mn li{
+    display: inline;
+    float: left;
+}
+.mn a{
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+}
+.mn li a:hover{
+    color: purple;
+}
+.text li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20;
+    color: white;
+
+}
